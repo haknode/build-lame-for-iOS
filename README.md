@@ -1,12 +1,13 @@
-[![Build Status](https://travis-ci.org/Superbil/build-lame-for-iOS.svg)](https://travis-ci.org/Superbil/build-lame-for-iOS)
 Build-lame-for-iOS
 ==================
 
-Build lame for iOS version on Xcode.
+A Script to build lame for iOS on Xcode.
+
+**This is a Fork from [Superbil](https://github.com/Superbil/build-lame-for-iOS).** I only compiled the lame sources and uploaded them as a release!
 
 ### Release Library
 
-You can download last lame library at [release](https://github.com/Superbil/build-lame-for-iOS/releases/latest).
+You can download last lame library at [release](https://github.com/haknode/build-lame-for-iOS/releases).
 
 ### Usage
 
